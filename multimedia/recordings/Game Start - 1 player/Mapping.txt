@@ -1,0 +1,28 @@
+Random		Feartie
+
+Defensive	Feartie
+
+MINMAX
+- Low		Interesting
+- Medium	Interesting
+- High		Bold
+
+Hybrid
+- Low		Interesting
+- Medium	Bold
+- High		Regret
+
+MC
+- Low		Bold
+- Medium	Regret
+- High		Regret
+
+Q Learning
+- Low		Bold
+- Medium	Regret
+- High		Regret
+
+
+Random:
+Let's Play
+Best robot win
